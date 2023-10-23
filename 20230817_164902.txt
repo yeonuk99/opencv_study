@@ -1,0 +1,6 @@
+Server
+Client
+Database
+Cloud Computing
+Software
+Hardware
